@@ -1,7 +1,7 @@
 # 🧠 Neurotracker
 [![wakatime](https://wakatime.com/badge/github/ofou/neurotracker.svg)](https://wakatime.com/badge/github/ofou/neurotracker)
 
-## Keep track of Brain-Computer Interface companies, development, and key metrics
+### Keep track of Brain-Computer Interface companies, development, and key metrics
 
 The main purpose of this project is to keep track of the current revolution of Brain-Computer Interfaces, especially Neuralink and related [companies](companies/companies.csv), universities and research labs with invasive approaches. We keep track of interesting [papers](papers/papers.csv), and [key metrics](metrics/metrics.csv) for the field. 
 
